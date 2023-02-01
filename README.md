@@ -30,3 +30,5 @@ From all of them I learnt two important lessons:
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+Adding a line to test
